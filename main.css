@@ -1,10 +1,15 @@
-* {
+main {
+  padding: 30px;
+}
+h1, h2 {
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
   font-weight: bold;
-  color: yellow;
+  color: black;
 }
-
-main {
-  padding: 30px;
+p {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  color: pink;
 }
